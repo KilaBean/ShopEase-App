@@ -56,14 +56,14 @@ The app provides a complete shopping experience with **user authentication, prod
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/login.png" alt="Login Screen" width="250"/>
-  <img src="screenshots/catalog.png" alt="Product Catalog" width="250"/>
-  <img src="screenshots/product.png" alt="Product Details" width="250"/>
+  <img src="screenshots/login.jpg" alt="Login Screen" width="250"/>
+  <img src="screenshots/catalog.jpg" alt="Product Catalog" width="250"/>
+  <img src="screenshots/register.jpg" alt="Product Details" width="250"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/cart.png" alt="Shopping Cart" width="250"/>
-  <img src="screenshots/checkout.png" alt="Checkout" width="250"/>
+  <img src="screenshots/cart.jpg" alt="Shopping Cart" width="250"/>
+  <img src="screenshots/checkout.jpg" alt="Checkout" width="250"/>
 </p>
 
 ---
